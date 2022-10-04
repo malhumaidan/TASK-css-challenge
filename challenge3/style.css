@@ -1,10 +1,14 @@
 /* Add your code in each class */
 .container {
-  height: 300px;
-  width: 400px;
+  background-color: rgb(232, 232, 110);
+  width: 500px;
+  height: 200px;
+  overflow: auto;
 }
 .head {
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: monospace;
+  background-color: brown;
+  text-align: center;
 }
 
 .row {
