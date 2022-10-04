@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(45, 11, 76);
+}
+
+img{
+    height: 500px;
+    width: 400px;
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-family: 'Passions Conflict', cursive;
+    font-size: 100px;
+}
+
+p{
+    color: #fff;
+    text-align: center;
+}
