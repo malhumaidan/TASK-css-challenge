@@ -9,6 +9,8 @@
   font-family: monospace;
   background-color: brown;
   text-align: center;
+  position: sticky;
+  top: 0px;
 }
 
 .row {
